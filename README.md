@@ -54,10 +54,10 @@ Add the following config to your MCP client:
 
 ### Installing via Smithery
 
-To install Chrome DevTools Automation automatically via [Smithery](https://smithery.ai/server/@SHAY5555-gif/chrome-devtools-mcp-2):
+To install Chrome DevTools Automation automatically via [Smithery](https://smithery.ai/server/@navalmen007/chrome-devtools-mcp):
 
 ```bash
-npx -y @smithery/cli install @SHAY5555-gif/chrome-devtools-mcp-2
+npx -y @smithery/cli install @navalmen007/chrome-devtools-mcp
 ```
 
 ### MCP Client configuration
